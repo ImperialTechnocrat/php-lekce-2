@@ -1,10 +1,10 @@
-den v tydnu: $den
+Den v tydnu: $den
 <?php
-$text = 'Ahoj!';
-echo $text;
+$den = 'patek';
+echo $den;
 /**
  * Created by PhpStorm.
  * User: juand
  * Date: 21.02.2019
- * Time: 18:43
+ * Time: 19:14
  */
