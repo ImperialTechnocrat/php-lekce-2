@@ -1,6 +1,6 @@
-<?php
-echo '<h1>Jan von Kallay</h1>';
-
+<h1>Jméno:</h1>
+<?php echo '<p>Odstavec 1</p>'; ?>
+<p>Odstavec 2</p>
 /**
  * Created by PhpStorm.
  * User: juand
