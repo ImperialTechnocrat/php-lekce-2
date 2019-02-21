@@ -1,6 +1,7 @@
-<h1>Jméno:</h1>
-<?php echo '<p>Odstavec 1</p>'; ?>
-<p>Odstavec 2</p>
+
+<?php
+$text = 'Ahoj!';
+echo $text;
 /**
  * Created by PhpStorm.
  * User: juand
