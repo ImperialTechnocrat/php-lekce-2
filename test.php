@@ -1,6 +1,7 @@
-<h1>Jméno:/n</h1>
-<?php echo '<p>Jan von Kallay/n</p>'; ?>
-<p>21.02.2019</p>
+
+<?php
+$text = 'Ahoj!';
+echo $text;
 /**
  * Created by PhpStorm.
  * User: juand
