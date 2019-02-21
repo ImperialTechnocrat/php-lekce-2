@@ -1,7 +1,7 @@
-
+Den v tydnu: <?php echo $den ?>
 <?php
-$text = 'Ahoj!';
-echo $text;
+$den = 'Patek';
+
 /**
  * Created by PhpStorm.
  * User: juand
