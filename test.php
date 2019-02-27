@@ -1,10 +1,4 @@
-Den v tydnu: <?php echo $den ?>
-<?php
-$den = 'Patek';
 
-/**
- * Created by PhpStorm.
- * User: juand
- * Date: 21.02.2019
- * Time: 18:43
- */
+<h1>Nadpis</h1>
+<?php echo '<p>Odstavec 1</p>'; ?>
+<p>Odstavec 2</p>
